@@ -205,3 +205,5 @@ Check out the [AG-UI Roadmap](https://github.com/orgs/ag-ui-protocol/projects/1)
 ## 📄 License
 
 AG-UI is open source software [licensed as MIT](https://opensource.org/licenses/MIT).
+
+<!-- SMOKE-MARKER-42-AGUI: coordinated change 20260710-0929 -->
